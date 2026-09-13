@@ -41,15 +41,15 @@ Refer to the `docs/` folder for the complete project report and presentation.
 
 ## 📸 Project Screenshots
 
-![Dashboard](images/dash.png)
+![Dashboard](Indoor_Localization_BLE_KNN/images/dash.png)
 
-![Dashboard](images/dash01.jpeg)
+![Dashboard](Indoor_Localization_BLE_KNN/images/dash01.jpeg)
 
-![Project Setup](images/pic02.jpeg)
+![Project](Indoor_Localization_BLE_KNN/images/pic02.jpeg)
 
-![System](images/pic03.png)
+![System](Indoor_Localization_BLE_KNN/images/pic03.png)
 
-![Hardware Setup](images/pic04.jpeg)
+![Setup](Indoor_Localization_BLE_KNN/images/pic04.jpeg)
 
 ## Future Scope
 - Improve localization accuracy.
