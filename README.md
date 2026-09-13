@@ -39,6 +39,18 @@ Refer to the `docs/` folder for the complete project report and presentation.
 ## Team
 - Team of 4 members
 
+## 📸 Project Screenshots
+
+![Dashboard](images/dash.png)
+
+![Dashboard](images/dash01.jpeg)
+
+![Project Setup](images/pic02.jpeg)
+
+![System](images/pic03.png)
+
+![Hardware Setup](images/pic04.jpeg)
+
 ## Future Scope
 - Improve localization accuracy.
 - Support larger indoor environments.
