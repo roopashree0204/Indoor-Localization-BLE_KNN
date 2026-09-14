@@ -26,16 +26,6 @@ BLE Beacons → ESP32 Scanner → RSSI Collection → Signal Processing → KNN 
 ## Results
 The system successfully performs indoor location prediction using RSSI fingerprinting and KNN.
 
-## Project Structure
-- `src/` – ESP32 and Python source code
-- `dashboard/` – Flask web dashboard
-- `data/` – Localization data
-- `docs/` – Project report and presentation
-- `images/` – Project images
-
-## Documentation
-Refer to the `docs/` folder for the complete project report and presentation.
-
 ## Team
 - Team of 4 members
 
