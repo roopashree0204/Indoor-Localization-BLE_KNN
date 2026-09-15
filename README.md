@@ -41,6 +41,9 @@ The system successfully performs indoor location prediction using RSSI fingerpri
 
 ![Dashboard](Indoor_Localization_BLE_KNN/images/dash01.jpeg)
 
+## Dashboard link
+https://indoorloc.onrender.com/
+
 ## Future Scope
 - Improve localization accuracy.
 - Support larger indoor environments.
